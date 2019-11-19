@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<imager xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <serial>16110026</serial>
+  <videoformatindex>1</videoformatindex>
+  <fov>80</fov>
+  <calipath>/var/local/cali</calipath>
+  <temperature>
+    <min>-20</min>
+    <max>100</max>
+  </temperature>
+  <framerate>10</framerate>
+  <controller>1</controller>
+  <outputmode>2</outputmode>
+  <bispectral>0</bispectral>
+  <average>0</average>
+  <palette>
+    <id>Iron</id>
+    <scaling>Manual</scaling>
+    <temperatureMin>65516</temperatureMin>
+    <temperatureMax>40</temperatureMax>
+  </palette>
+  <autoflag>
+    <enable>1</enable>
+    <whilerecording>use</whilerecording>
+    <mininterval>12</mininterval>
+    <maxinterval>-1</maxinterval>
+  </autoflag>
+  <tchipmode>0</tchipmode>
+  <tchipfixedvalue>55</tchipfixedvalue>
+</imager>
